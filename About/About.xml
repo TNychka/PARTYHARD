@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Party Hard!</name>
+    <author>360Broscope</author>
+    <packageId>360Broscope.PartyHard</packageId> <!-- a unique identifier for your mod. Must contain only a-z and periods, no spaces. -->
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+    <description>When it’s time to party, colonists will always party hard.\n\nColonists will disregard the schedule during a party. Prevents the party from being called off when the timetable switches to work.\n\nFor version 1.5.
+    </description>
+</ModMetaData>
